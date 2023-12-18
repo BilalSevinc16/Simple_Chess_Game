@@ -1,16 +1,11 @@
-# simple_chess
+# Simple_Chess_Game
 
-A new Flutter project.
+Simple Chess Game
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_Chess_Game/assets/146417248/07ba4ae5-35b7-472d-be3c-c537bbd7b292)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Simple_Chess_Game/assets/146417248/9ce46097-cc75-4e24-a2de-9f8b2630d649)
 
-A few resources to get you started if this is your first Flutter project:
+![3](https://github.com/BilalSevinc16/Simple_Chess_Game/assets/146417248/b83c10e1-69c5-4f4d-9065-ee11a1606cc2)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4](https://github.com/BilalSevinc16/Simple_Chess_Game/assets/146417248/5012fe3c-107a-49ce-a813-31fbcd615ab8)
